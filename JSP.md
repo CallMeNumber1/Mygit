@@ -1,0 +1,3 @@
+- jsp：包含java程序片的html
+- severlet 包含html代码的java
+- jsp注重于页面显示，serverlet注重于控制
